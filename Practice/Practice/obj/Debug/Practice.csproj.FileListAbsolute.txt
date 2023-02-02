@@ -5,3 +5,10 @@ C:\Users\okoro\source\repos\Practice\Practice\obj\Debug\Practice.csproj.Assembly
 C:\Users\okoro\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
 C:\Users\okoro\source\repos\Practice\Practice\obj\Debug\Practice.exe
 C:\Users\okoro\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\okoro\Documents\GitHub\Practice\Practice\Practice\obj\Debug\Practice.pdb
